@@ -48,6 +48,5 @@ spec:
     targetRevision: rhde-demo
   syncPolicy:
     automated: {}
-
     retry:
       limit: 20
